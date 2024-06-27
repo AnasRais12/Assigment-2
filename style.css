@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.nav-container{
+    width: 100%;
+    padding-left: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-right: 15px;
+    background-color: rgb(27, 37, 84);
+    color: white;
+    font-weight: bold;
+    height: 10vh;
+}
